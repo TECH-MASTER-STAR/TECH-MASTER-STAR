@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=TECH-MASTER-STAR&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=TECH-MASTER-STAR&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TECH-MASTER-STAR&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![snake](https://raw.githubusercontent.com/TECH-MASTER-STAR/TECH-MASTER-STAR/output/github-contribution-grid-snake-dark.svg)
 ---
 [![](https://komarev.com/ghpvc/?username=TECH-MASTER-STAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
